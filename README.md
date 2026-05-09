@@ -54,7 +54,7 @@ Custom built Marketing Analytics Database:
 ### 🟢 Beginner
 - [x] Task 1 — SELECT Basics
 - [x] Task 2 — WHERE Clause
-- [ ] Task 3 — ORDER BY and LIMIT
+- [x] Task 3 — ORDER BY and LIMIT
 - [ ] Task 4 — Aggregations
 - [ ] Task 5 — GROUP BY and HAVING
 
